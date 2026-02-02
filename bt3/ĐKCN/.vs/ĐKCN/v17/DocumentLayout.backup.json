@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt3\\\u0111kcn\\\u0111kcn\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|solutionrelative:\u0111kcn\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt3\\\u0111kcn\\\u0111kcn\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|solutionrelative:\u0111kcn\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt3\\\u0111kcn\\\u0111kcn\\views\\student\\showkq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|solutionrelative:\u0111kcn\\views\\student\\showkq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt3\\\u0111kcn\\\u0111kcn\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|solutionrelative:\u0111kcn\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt3\\\u0111kcn\\\u0111kcn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|solutionrelative:\u0111kcn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt3\\\u0111kcn\\\u0111kcn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|solutionrelative:\u0111kcn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt3\\\u0111kcn\\\u0111kcn\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|solutionrelative:\u0111kcn\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt3\\\u0111kcn\\\u0111kcn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|solutionrelative:\u0111kcn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt3\\\u0111kcn\\\u0111kcn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECB4AE0-A7F2-447A-B9A2-D2E8DB266258}|\u0110KCN\\\u0110KCN.csproj|solutionrelative:\u0111kcn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 430,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 116,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "\u0110KCN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "\u0110KCN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T06:09:19.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "\u0110KCN\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "\u0110KCN\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T05:47:40.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Program.cs",
+              "RelativeDocumentMoniker": "\u0110KCN\\Program.cs",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Program.cs",
+              "RelativeToolTip": "\u0110KCN\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T05:44:19.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u0110KCN\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "\u0110KCN\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T05:42:26.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowKQ.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Views\\Student\\ShowKQ.cshtml",
+              "RelativeDocumentMoniker": "\u0110KCN\\Views\\Student\\ShowKQ.cshtml",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Views\\Student\\ShowKQ.cshtml",
+              "RelativeToolTip": "\u0110KCN\\Views\\Student\\ShowKQ.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T05:32:33.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u0110KCN\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "\u0110KCN\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T05:06:51.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "\u0110KCN\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "\u0110KCN\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:55:53.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "\u0110KCN\\Models\\Student.cs",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Models\\Student.cs",
+              "RelativeToolTip": "\u0110KCN\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:53:33.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "\u0110KCN\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt3\\\u0110KCN\\\u0110KCN\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "\u0110KCN\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T04:49:22.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

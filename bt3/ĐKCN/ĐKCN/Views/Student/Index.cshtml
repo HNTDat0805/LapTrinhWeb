@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Đăng ký chuyên ngành";
+}
+
+<h2>Đăng ký chuyên ngành</h2>
+
+<form method="post" asp-action="ShowKQ">
+    <div>
+        <label> for="MSSV">Mã sinh viên:</label>
+        <input type="text" id="MSSV" name="MSSV" required />
+    </div>
+    <div>
+        <label for="HoTen">Họ và tên:</label>
+        <input type="text" id="HoTen" name="HoTen" required />
+    </div>
+    <div>
+        <label for="DTB">Điểm trung bình</label>
+        <input type="number" step="0.01" id="DTB" name="DTB" required />
+    </div>
+    <div>
+        <label for="ChuyenNganh">Chuyên ngành:</label>
+        <select id="ChuyenNganh" name="ChuyenNganh" required>
+            <option value="">-- Chọn chuyên ngành --</option>
+            <option value="CNTT">CNPM</option>
+            <option value="HTTT">HTTT</option>
+            <option value="MMT">ANN</option>
+            <option value="KTMT">TTNT</option>
+            <option value="KHMT">MMT</option>
+        </select>
+    </div>
+    <button type="submit">Đăng ký</button>
+</form>
+
+@section Scripts {
+    <script>
+        console.log("Đăng ký chuyên ngành script loaded.");
+    </script>
+}
+
+
