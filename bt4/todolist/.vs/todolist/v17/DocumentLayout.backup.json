@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt4\\todolist\\controllers\\congvieccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|solutionrelative:controllers\\congvieccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt4\\todolist\\views\\congviec\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|solutionrelative:views\\congviec\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt4\\todolist\\views\\congviec\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|solutionrelative:views\\congviec\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt4\\todolist\\views\\congviec\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|solutionrelative:views\\congviec\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt4\\todolist\\views\\congviec\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|solutionrelative:views\\congviec\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt4\\todolist\\models\\congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|solutionrelative:models\\congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt4\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|d:\\baitap\\l\u1EADp tr\u00ECnh web\\laptrinhweb\\bt4\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21CDAE8C-4911-4940-A666-9CF4DBB28F47}|todolist.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\Views\\CongViec\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\CongViec\\Edit.cshtml",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\Views\\CongViec\\Edit.cshtml",
+              "RelativeToolTip": "Views\\CongViec\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-08T03:20:53.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CongViecController.cs",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\Controllers\\CongViecController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CongViecController.cs",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\Controllers\\CongViecController.cs",
+              "RelativeToolTip": "Controllers\\CongViecController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T03:14:22.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CongViec.cs",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\Models\\CongViec.cs",
+              "RelativeDocumentMoniker": "Models\\CongViec.cs",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\Models\\CongViec.cs",
+              "RelativeToolTip": "Models\\CongViec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T03:20:01.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\Views\\CongViec\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\CongViec\\Details.cshtml",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\Views\\CongViec\\Details.cshtml",
+              "RelativeToolTip": "Views\\CongViec\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-08T03:12:47.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\Views\\CongViec\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\CongViec\\Create.cshtml",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\Views\\CongViec\\Create.cshtml",
+              "RelativeToolTip": "Views\\CongViec\\Create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-08T03:16:12.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\Views\\CongViec\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CongViec\\index.cshtml",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\Views\\CongViec\\index.cshtml",
+              "RelativeToolTip": "Views\\CongViec\\index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-08T03:13:17.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T03:12:12.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Baitap\\L\u1EADp tr\u00ECnh web\\LapTrinhWeb\\bt4\\todolist\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-08T03:12:11.103Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

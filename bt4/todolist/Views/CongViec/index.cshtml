@@ -1,0 +1,35 @@
+@model List<Models.CongViec>
+
+@{
+    ViewData["Title"] = "Danh Sách Công Việc";
+}
+
+<h2>DANH SÁCH CÔNG VIỆC</h2>
+
+<p>
+    <a asp-action="Create">Tạo công việc mới</a>
+</p>
+
+<table border="1" cellpadding="5">
+    <tr>
+        <th>Mã công việc</th>
+        <th>Tên công việc</th>
+        <th>Trạng thái hoàn thành</th>
+    </tr>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>@item.Id</td>
+        <td>@item.TenCongViec</td>
+        <td>
+                <input type="checkbox" @(item.TrangThaiHoanThanh ? "checked" : "") disabled />
+        </td>
+        <td>
+            <a asp-action="Edit" asp-route-id="@item.Id">Sửa</a> |
+            <a asp-action="Details" asp-route-id="@item.Id">Chi tiết</a> |
+            <a asp-action="Delete" asp-route-id="@item.Id">Xóa</a>
+        </td>
+    </tr>
+}
+</table>

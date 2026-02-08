@@ -1,0 +1,30 @@
+@model Models.CongViec
+
+@{
+    ViewData["Title"] = "Chi Tiết Công Việc";
+}
+
+<h2>Chi Tiết Công Việc</h2>
+
+<div>
+    <h4>Công Việc</h4>
+    <hr />
+    <form asp-action="Details" method="post">
+        <div>
+            <label>Mã công việc:</label>
+            <span>@Model.Id</span>
+        </div>
+        <div>
+            <label>Tên công việc:</label>
+            <span>@Model.TenCongViec</span>
+        </div>
+        <div>
+            <label>Trạng thái hoàn thành:</label>
+            <input type="checkbox" checked="@Model.TrangThaiHoanThanh" disabled />
+        </div>
+    </form>
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model.Id">Chỉnh sửa</a> |
+        <a asp-action="Index">Quay lại danh sách công việc</a>
+    </div>
+</div>

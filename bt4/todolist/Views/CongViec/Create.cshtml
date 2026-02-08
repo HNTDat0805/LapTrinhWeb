@@ -1,0 +1,29 @@
+@model Models.CongViec
+@{
+    ViewData["Title"] = "Tạo Công Việc Mới";
+}
+
+<h2>Tạo Công Việc Mới</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label for="Id">Mã công việc:</label>
+        <input type="number" asp-for="Id" />
+        <span asp-validation-for="Id" style="color:red"></span>
+    </div>
+    <div>
+        <label for="TenCongViec">Tên công việc:</label>
+        <input type="text" asp-for="TenCongViec" />
+        <span asp-validation-for="TenCongViec" style="color:red"></span>
+    </div>
+    <div>
+        <label for="TrangThaiHoanThanh">Trạng thái hoàn thành:</label>
+        <input asp-for="TrangThaiHoanThanh" type="checkbox" id="TrangThaiHoanThanh" name="TrangThaiHoanThanh" />
+    </div>
+    <div>
+        <button type="submit">Tạo</button>
+    </div>
+</form>
+<div>
+    <a asp-action="Index">Quay lại danh sách công việc</a>
+</div>
